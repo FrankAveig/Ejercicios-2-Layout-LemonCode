@@ -1,0 +1,11 @@
+@mixin apply-theme-b {
+    $current-theme: $theme-b !global;
+} 
+
+$base-color: #0000ff;
+$important-color: #000080;
+$warning-color: #00ffff;
+$primary-font: 'Helvetica', sans-serif;
+$secondary-font: 'Times New Roman', serif;
+$border-radius: 10px;
+$box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3); 
