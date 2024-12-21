@@ -1,6 +1,6 @@
-# Temas con Sass
+# 🍋 Ejercicio 2: Layout Lemoncode
 
-Este proyecto demuestra cómo implementar múltiples temas usando Sass.
+Múltiples temas usando Sass.
 
 ## Estructura del Proyecto
 
